@@ -2,9 +2,9 @@ import random
 import time
 from os import system
 
-MAX_ATTEMPTS = 5
+MAX_ATTEMPTS = 10
 MIN_NUMBER = 1
-MAX_NUMBER = 100
+MAX_NUMBER = 50
 
 
 def introduce() -> None:
